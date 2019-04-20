@@ -1,0 +1,2 @@
+# ExpenseCoreData
+CoreData practice
